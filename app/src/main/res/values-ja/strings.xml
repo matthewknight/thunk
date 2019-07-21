@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">サンク</string>
+    <string name="title_activity_receive_thunk">サンク を うけとる</string>
+    <string name="title_activity_send_thunk">サンク を おくる</string>
+    <string name="sendThunkButtonText">サンク を おくる</string>
+    <string name="receiveThunkButtonText">サンク を うけとる</string>
+    <string name="likeThunkButtonOn">好きだった</string>
+    <string name="likeThunkButtonOff">好き</string>
+    <string name="getThunkButton">新しい サンク を 手に入れる</string>
+    <string name="thunkInputHint">あなたの考え…</string>
+    <string name="sendThunkButton">サンク を おくる</string>
+    <string name="listSavedOnPrefix">保存しました</string>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Thunk</string>
+    <string name="title_activity_receive_thunk">Receive Thunk</string>
+    <string name="title_activity_send_thunk">Send Thunk</string>
+    <string name="sendThunkButtonText">Send Thunk</string>
+    <string name="receiveThunkButtonText">Get Thunk</string>
+    <string name="likeThunkButtonOn">Liked</string>
+    <string name="likeThunkButtonOff">Like</string>
+    <string name="getThunkButton">Get A New Thunk!</string>
+    <string name="thunkInputHint">Your thoughts…</string>
+    <string name="sendThunkButton">Send Thunk</string>
+    <string name="listSavedOnPrefix">Saved On</string>
+</resources>
